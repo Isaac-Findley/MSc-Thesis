@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/MSc-Thesis/posts/post-with-code/index.html",
       "/posts/post-with-code/index.html",
+      "/MSc-Thesis/posts/welcome/index.html",
       "/posts/welcome/index.html"
     ]
   }
