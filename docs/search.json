@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FTD",
+    "section": "",
+    "text": "Frontotemporal Dementia (FTD) is group a non-Alzheimer neurodegenerative diseases characterised by escalating impairment of speech, behavioural control or semantic knowledge (Perry et al. 2006; Bang, Spina, and Miller 2015). FTD onset occurs earlier in life for persons who have a history of traumatic brain injury (TBI), as well as chronic traumatic encephalopathy (CTE) (LoBue et al. 2015), distinguishing FTD as a form of dementia which disproportionately affects younger persons when compared to other types of dementia such as Alzheimer’s Disease (AD). FTD is the most frequent type of early-onset dementia (Vieira 2013). Unlike AD, FTD is typically characterised by behavioural, speech, or semantic knowledge deficits prior to cognitive impairment and motor control deficits (Bang, Spina, and Miller 2015).\nAlthough AD and FTD have distinct symptomatology, FTD is frequently misdiagnosed as AD, with Yener et al. (1996) finding that 86% of Pick’s disease (an FTD subtype) patients were incorrectly diagnosed with AD during their lives. Furthermore, it is likely that misdiagnoses of FTD among non-neurologists is common due to the overlap in symptomatology between FTD and many psychiatric disorders (Olney, Spina, and Miller 2017). For example, Woolley et al. (2011) found that 52% of FTD patients had received a prior psychiatric diagnoses, with FTD patients receiving significantly more prior psychiatric diagnoses compared to other types of dementia-related illnesses. It is not feasible to retrospectively discard a prior psychiatric diagnoses, and it is possible that psychiatric disorders do in fact represent a risk factor for FTD (Bott et al. 2014). Nevertheless, the high rates of psychiatric diagnoses coupled with the overlap in clinically observable symptoms between FTD and many psychiatric disorders present FTD as probable candidate for under-diagnoses. Identifying characteristics of FTD which distinguish it from other dementia-type illnesses and psychiatric disorders may be key to ensuring valid and reliable diagnostic practices.\nCurrently, FTD (known as Major or Mild Frontotemporal Neurocognitive Disorder in the DSM 5-TR) is diagnosed by the criteria shown in Figure 1.\nFigure 1\nDiagnostic Criteria for Frontotemporal Dementia.\n\n\n\n(American Psychiatric Association 2022)\n\n\nAs well as the clinical diagnostic difficulties discussed previously, FTD diagnoses is particularly difficult to positively identify due to the expensive imaging techniques (CT, MRI, SPECT, PET) required to affirm a only a probable diagnoses (Bott et al. 2014). Definite diagnoses of FTD requires meeting the conditions for probable FTD as well as histopathological or post-mortem biopsy evidence of pathogenic mutation (Rascovsky et al. 2011). In short, the diagnostic methods required to provide beyond a probable diagnoses of FTD are expensive, resource intensive, invasive, or, not of use to the patient themselves. This invites research in developing new diagnostic tools which can remedy the shortcomings of the current diagnostic methodology.\nElectroencephalography (EEG) is a relatively cheap, non-invasive method of assessment which has promising potential to remedy some of the aforementioned shortcomings of the current diagnostic methodology surrounding FTD. Although the literature surrounding EEG and dementia-related illnesses has only recently began to develop, many key insights are emerging which are beginning to suggest EEG may be an exciting new tool for identifying unique indicators of specific dementia-related illnesses quickly, cheaply, and non-invasively.\nMicrostate class C, within the four microstate class topography detailed by Koenig et al. (2002), has been identified to be significantly shorter in duration for FTD patients when compared to healthy controls (Nishida et al. 2013). (Britz, Van De Ville, and Michel 2010) found association between Microstate class C and activation in the anterior cingulate cortex observed using blood oxygenation level dependent (BOLD) MRI imaging. Deficiencies in the insular-cingulate network, containing the anterior cingulate cortex (Nishida et al. 2013), have been identified to be causal in the decrease social and emotional functioning during the early stages of FTD (Zhou et al. 2010). Impairment to the anterior cingulate cortex has also been identified in patients diagnosed with major depressive disorder (MDD) (Sliz and Hayley 2012). MDD has been recognised as one of the psychiatric disorders to which FTD is misdiagnosed (Olney, Spina, and Miller 2017). These findings suggest that although identifying mean microstate class differences between FTD and healthy controls is promising, much more research is to be done before microstate analysis can be recognised as a legitimate diagnostic tool for FTD.\nPerhaps more pertinent to diagnostic accuracy of FTD is the frequency of misdiagnoses as AD. With FTD being so commonly misdiagnosed as AD, (Yener et al. 1996), identifying distinctions between these two diseases appears an effective way to more immediately improve diagnostic accuracy."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#participants",
+    "href": "index.html#participants",
+    "title": "FTD",
+    "section": "2.1 Participants",
+    "text": "2.1 Participants\nA publicly available dataset (Miltiadous et al. 2024) is proposed to be used for this thesis. Participants (N = 88) were recruited within three conditions. Participants in the AD Group (n = 36) were diagnosed with Alzheimer’s disease , participants in the FTD Group (n = 23) were diagnosed with Frontotemporal Dementia and participants in the CN Group (n = 29) were healthy subjects. The mean age of the AD group was 66.4 (SD = 7.9), for the FTD group was 63.6 (SD = 8.2), and for the CN group was 67.9 (SD = 5.4)."
+  },
+  {
+    "objectID": "index.html#materials",
+    "href": "index.html#materials",
+    "title": "FTD",
+    "section": "2.2 Materials",
+    "text": "2.2 Materials\nCognitive and neuropsychological state was evaluated by the international Mini-Mental State Examination (MMSE). MMSE score ranges from 0 to 30, with lower MMSE indicating more severe cognitive decline. The duration of the disease was measured in months and the median value was 25 with IQR range (Q1-Q3) being 24 - 28.5 months. Concerning the AD and FTD groups, no dementia-related comorbidities have been reported. The average MMSE for the AD group was 17.75 (SD = 4.5), for the FTD group was 22.17 (SD = 8.22) and for the CN group was 30."
+  },
+  {
+    "objectID": "index.html#procedure",
+    "href": "index.html#procedure",
+    "title": "FTD",
+    "section": "2.3 Procedure",
+    "text": "2.3 Procedure\n\n2.3.1 EEG Recording\nRecordings were aquired from the 2nd Department of Neurology of AHEPA General Hispital of Thessaloniki. For recording, a Nihon Kohden EEG 2100 clinical device was used, with 19 scalp electrodes (Fp1, Fp2, F7, F3, Fz, F4, F8, T3, C3, Cz, C4, T4, T5, P3, Pz, P4, T6, O1, and O2) according to the 10-20 international system and 2 reference electrodes (A1 and A2) placed on the mastoids for impendance check, according to the manual of the device. Each recording was performed according to the clinical protocol with participants being in a sitting position having their eyes closed. Before the initialization of each recording, the skin impedance value was ensured to be below 5k. The sampling rate was 500 Hz with 10uV/mm resolution. The recording montages were anterior-posterior bipolar and referential montage using Cz as the common reference. The referential montage was included in this dataset. The recordings were received under the range of the following parameters of the amplifier: Sensitivity: 10uV/mm, time constant: 0.3s, and high frequency filter at 70 Hz. Each recording lasted approximately 13.5 minutes for AD group (min = 5.1, max = 21.3), 12 minutes for FTD group (min = 7.9, max = 16.9) and 13.8 for CN group (min = 12.5, max = 16.5). In total, 485.5 minutes of AD, 276.5 minutes of FTD and 402 minutes of CN recordings were collected and are included in the dataset (Miltiadous et al. 2024).\n\n\n2.3.2 Preprocessing\nThe EEG recordings were exported in .eeg format and are transformed to BIDS accepted .set format for the inclusion in the dataset. Firstly, the channel locations were edited to look up the locations of existing channels. Extra channels generated while looking up the existing channel locations (RPA, LPA, and Nz) were removed. A basic FIR filter (low pass allowing ≥ 2hz, high pass allowing ≤ 20hz) was used. ASR artifact removal with flat channels retained was conducted. Finally, the channels were references to the mean, removed channels were not interpolated as including this function did not allow for microstate map analysis."
+  }
+]
